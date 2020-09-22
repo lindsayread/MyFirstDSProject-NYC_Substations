@@ -32,17 +32,17 @@ In this project, you will find the files used to gather the data, create visuali
 
 PDF of our Google Slides presentation.
 
-[MTA_Project_1.pdf](https://github.com/lindsayread/MyFirstDSProject-NYC_Substations/MTA_Project_1.pdf)
+[MTA_Project_1.pdf](https://github.com/lindsayread/MyFirstDSProject-NYC_Substations/blob/master/MTA_Project_1.pdf)
 
 ### Code Files:
 
 1. Main code file: In this file, you will find code for our data acquisition, EDA, and visualizations.
 
-[final_code.ipynb](https://github.com/lindsayread/MyFirstDSProject-NYC_Substations/final_code.ipynb)
+[final_code.ipynb](https://github.com/lindsayread/MyFirstDSProject-NYC_Substations/blob/master/final_code.ipynb)
 
 2. Distance from Stations to Universities and Tech Companies code file: In this file, you will find code for mapping the distance from each station to each tech-focused university and major tech centers, as well as a count of how many tech centers and universities are within 1 km of each subway station.
 
-[subway_locations_tech_and_universities.ipynb](https://github.com/lindsayread/MyFirstDSProject-NYC_Substations/subway_locations_tech_and_universities.ipynb)
+[subway_locations_tech_and_universities.ipynb](https://github.com/lindsayread/MyFirstDSProject-NYC_Substations/blob/master/subway_locations_tech_and_universities.ipynb)
 
 ## Data:
 
