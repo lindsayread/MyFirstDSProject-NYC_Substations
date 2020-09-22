@@ -32,7 +32,7 @@ In this project, you will find the files used to gather the data, create visuali
 
 PDF of our Google Slides presentation.
 
-[my_slides.pdf](https://github.com/lindsayread/MyFirstDSProject-NYC_Substations/my_slides.pdf)
+[MTA_Project_1.pdf](https://github.com/lindsayread/MyFirstDSProject-NYC_Substations/MTA_Project_1.pdf)
 
 ### Code Files:
 
