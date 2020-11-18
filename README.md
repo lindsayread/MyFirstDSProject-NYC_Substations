@@ -2,7 +2,7 @@
 
 ## About:
 
-In this project, I worked with three of my fellow Metis classmates (Frederick Lam, Lisa VanderVoort, and Harry Smith) to provide insight to WomenTechWomenYes (WTWY) as to when and where they should focus on deploying their street team in order to get the most amount of signatures of people who are interested in attending their gala, which is geared especially towards women in technology.
+In this project, I worked with three of my fellow Metis classmates to provide insight to WomenTechWomenYes (WTWY) as to when and where they should focus on deploying their street team in order to get the most amount of signatures of people who are interested in attending their gala, which is geared especially towards women in technology.
 
 ## Project Goals:
 We saught to perform EDA on the MTA Subway data to investigate the following:
